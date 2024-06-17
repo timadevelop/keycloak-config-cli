@@ -18,4 +18,5 @@ release.properties
 /providers/
 
 /*.json
+!/devbox.json
 /test*
